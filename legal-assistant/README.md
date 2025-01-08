@@ -1,7 +1,6 @@
-#legal assistant powered by AI chatbot technology
+<h1>legal assistant powered by AI chatbot technology</h1>
 
-##React + Vite
-
+<h3>React + vite </h3>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
